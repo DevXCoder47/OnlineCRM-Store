@@ -1,0 +1,39 @@
+div{
+    border: 3px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 25px;
+    overflow: hidden;
+}
+#menu_container_id{
+    width: 60%;
+    height: 50px;
+    margin: 1% auto;
+}
+#image_container_id{
+    width: 40%;
+    height: 300px;
+    margin-top: 3%;
+    margin-left: 50%;
+}
+#logo_container_id{
+    position: absolute;
+    width: 20%;
+    height: 100px;
+    margin-top: -200px;
+    margin-left: 10%;
+}
+#description_container_id{
+    position: absolute;
+    width: 20%;
+    margin-top: 200px;
+    margin-left: 10%;
+}
+#promotion_container_id{
+    position: absolute;
+    width: 20%;
+    height: 80px;
+    margin-top: 150px;
+    margin-left: 60%;
+}
